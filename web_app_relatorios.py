@@ -5,7 +5,7 @@ st.set_page_config(page_title="Relatórios Wyntech", layout="wide")
 
 # Dicionário com os relatórios disponíveis
 relatorios = {
-    "Dashboard SLA": "https://app.powerbi.com/reportEmbed?reportId=caed6072-da16-40e0-ac50-ce254ceafb14&autoAuth=true&ctid=afeff2ce-6c03-41a8-b6fd-da922bf0c5ec",
+    "Dashboard SLA": "https://app.powerbi.com/reportEmbed?reportId=c6fc46d9-612b-4546-8c7b-103205c825c2&autoAuth=true&ctid=afeff2ce-6c03-41a8-b6fd-da922bf0c5ec",
     "Dashboard Combustível": "https://app.powerbi.com/reportEmbed?reportId=22780b5a-a09d-41b0-ae53-12cbcec70add&autoAuth=true&ctid=afeff2ce-6c03-41a8-b6fd-da922bf0c5ec",
     "Dashboard Faturamento Positivo": "https://app.powerbi.com/reportEmbed?reportId=af1f8943-33cb-4830-b85b-fc4bf3048a8b&autoAuth=true&ctid=afeff2ce-6c03-41a8-b6fd-da922bf0c5ec"
 }
